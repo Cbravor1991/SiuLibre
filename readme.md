@@ -1,3 +1,11 @@
+Siu Libre es una aplicación web que permite otorgar una evalución en distintas áreas a diversos
+candidatos que se hayan inscripto para un puesto determinado. Luego de las evaluaciones
+personales los examinadores colocarán la correspondiente nota usando el sistema Siu Libre, y
+los candidatos podrán ver su nota y saber si han sido seleccionados.
+La aplicación permite registrar tanto a los examinadores (Administradores) y a los
+candidatos(Usuarios).
+Esta aplicación fue hecha en el framework Laravel. (Este proyecto fue clonado de mi antiguo repositorio https://github.com/christianBravo91 )
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
