@@ -3,7 +3,7 @@ candidatos que se hayan inscripto para un puesto determinado. Luego de las evalu
 personales los examinadores colocarán la correspondiente nota usando el sistema Siu Libre, y
 los candidatos podrán ver su nota y saber si han sido seleccionados.
 La aplicación permite registrar tanto a los examinadores (Administradores) y a los
-candidatos(Usuarios).
+candidatos(Usuarios). En este proyecto se puede encontrar implementado el Frontend, el Backen y lo logica necesaria para el funcionamiento. Para la base de datos se utilizo MySQL
 Esta aplicación fue hecha en el framework Laravel. (Este proyecto fue clonado de mi antiguo repositorio https://github.com/christianBravo91 )
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
